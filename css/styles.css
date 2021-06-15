@@ -240,19 +240,19 @@ body {
   background-color: #FCB72B;
   color: #fff;
   text-decoration: none;
-  padding: 14px 43px; 
+  padding: 14px 43px;
 }
 
-.learn__more{
+.learn__more {
   background-color: #FCB72B;
   color: #fff;
   text-decoration: none;
-  border:2px solid #FCB72B;
-  padding: 14px 43px; 
+  border: 2px solid #FCB72B;
+  padding: 14px 43px;
   transition: all 0.5s ease;
 }
 
-.learn__more:hover{
+.learn__more:hover {
   background-color: #ffffff;
   color: #FCB72B;
   border: 2px solid #FCB72B;
@@ -388,30 +388,30 @@ body {
 
 /* FOOTER */
 
-.footer{
+.footer {
   background-color: #333A44;
 }
 
-.footer__icon{
+.footer__icon {
   display: flex;
   margin: 0;
   padding: 0;
 }
 
-.facebook{
+.facebook {
   margin-left: 0;
 }
 
-.footer__item{
+.footer__item {
   list-style: none;
   margin-left: 24px;
 }
 
-.footer__img{
+.footer__img {
   fill: #FCB72B;
   transition: color 0.5s ease;
 }
 
-.footer__img:hover{
+.footer__img:hover {
   fill: #fff;
 }
