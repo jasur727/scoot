@@ -69,6 +69,7 @@ body {
 }
 
 .links {
+  font-family: 'Space Mono', monospace;
   text-decoration: none;
   font-weight: bold;
   font-size: 15px;
@@ -100,6 +101,7 @@ body {
 }
 
 .about__heading{
+  font-family: 'Space Mono', monospace;
   font-weight: bold;
   font-size: 56px;
   line-height: 56px;
@@ -134,12 +136,13 @@ body {
   font-size: 48px;
   line-height: 48px;
   letter-spacing: -2.14286px;
-  width: 318px;
+  width: 441px;
   color: #495567;
   margin-top: 147px;
 }
 
 .easy__text {
+  font-family: 'Lexend Deca', sans-serif;
   font-weight: normal;
   font-size: 15px;
   line-height: 25px;
@@ -233,6 +236,7 @@ body {
 .our-values__heading{
   margin: 0;
   padding: 0;
+  font-family: 'Space Mono', monospace;
   font-weight: bold;
   font-size: 48px;
   line-height: 48px;
@@ -282,6 +286,7 @@ body {
 .tech__heading{
   margin: 0;
   padding: 0;
+  font-family: 'Space Mono', monospace;
   margin-top: 72px;
   margin-bottom: 27px;
   font-weight: bold;
@@ -293,6 +298,7 @@ body {
 }
 
 .tech__text{
+  font-family: 'Lexend Deca', sans-serif;
   font-weight: normal;
   font-size: 15px;
   line-height: 25px;
@@ -325,6 +331,7 @@ body {
 }
 
 .general__text{
+  font-family: 'Lexend Deca', sans-serif;
   font-weight: normal;
   font-size: 15px;
   line-height: 25px;
