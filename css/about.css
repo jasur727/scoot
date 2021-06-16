@@ -69,6 +69,7 @@ body {
 }
 
 .links {
+  font-family: 'Space Mono', monospace;
   text-decoration: none;
   font-weight: bold;
   font-size: 15px;
@@ -100,6 +101,7 @@ body {
 }
 
 .about__heading{
+  font-family: 'Space Mono', monospace;
   font-weight: bold;
   font-size: 56px;
   line-height: 56px;
@@ -130,16 +132,18 @@ body {
 }
 
 .easy__heading {
+  font-family: 'Space Mono', monospace;
   font-weight: bold;
   font-size: 48px;
   line-height: 48px;
   letter-spacing: -2.14286px;
-  width: 318px;
+  width: 436px;
   color: #495567;
   margin-top: 147px;
 }
 
 .easy__text {
+  font-family: 'Lexend Deca', sans-serif;
   font-weight: normal;
   font-size: 15px;
   line-height: 25px;
@@ -168,7 +172,7 @@ body {
   height: 445px;
   background-image: url("../img/bg-grey.svg");
   background-repeat: no-repeat;
-  left: calc(50% + 317px);
+  left: calc(50% + 291px);
   top: 145px;
 }
 
@@ -216,6 +220,7 @@ body {
 }
 
 .our-values__heading{
+  font-family: 'Space Mono', monospace;
   margin: 0;
   padding: 0;
   font-weight: bold;
@@ -267,6 +272,7 @@ body {
 .tech__heading{
   margin: 0;
   padding: 0;
+  font-family: 'Space Mono', monospace;
   margin-top: 72px;
   margin-bottom: 27px;
   font-weight: bold;
@@ -278,6 +284,7 @@ body {
 }
 
 .tech__text{
+  font-family: 'Lexend Deca', sans-serif;
   font-weight: normal;
   font-size: 15px;
   line-height: 25px;
@@ -343,6 +350,7 @@ body {
 }
 
 .first-wrapper__text{
+  font-family: 'Lexend Deca', sans-serif;
   font-weight: normal;
   font-size: 15px;
   line-height: 25px;
@@ -432,6 +440,7 @@ body {
 
 .sing__heading {
   width: 452px;
+  font-family: 'Space Mono', monospace;
   font-weight: bold;
   font-size: 48px;
   line-height: 48px;
